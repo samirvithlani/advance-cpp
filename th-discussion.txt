@@ -1,0 +1,112 @@
+CPP-->
+c       cpp
+	oops -> inheritance,encapsulation,abstraction,polymorephsiam
+
+
+9)
+class,object,constructor,abstraction,overloading,overriding,inheritance,encapsulation,polymorphism    
+instancr variaable --> class level-->
+
+void demo(int x)
+
+rt foid
+fn demo
+1
+
+student(name)\area(int a)
+search(string)
+search(string,string)
+
+search(string int)
+search(string int bool)
+
+food(fname)
+food(fname,500)
+food(fname,cg)
+
+
+opac(uname)
+opac(unam1,unam1)
+opanc(uname,uname,localr)
+
+
+overriding....
+
+-------------------------
+
+jb_cgroad{
+
+
+    vadapav(){
+
+        123
+    }
+}
+
+jb_sattelite{
+
+
+    vadapav(){
+
+    }
+
+
+}
+----------------------------------------------------------------------------------------------------------------------
+
+SBI -- > SBI DEBIT CARD  --> HDFC ATM MACHINE (withdraw)
+
+RBI{
+
+withdarw()
+
+}
+
+
+SBI{
+
+    withdarw()
+}
+HDFC{
+
+    withdarw()
+}
+
+============================================================================================================================
+
+TRAI{}
+
+
+
+JIO{}
+
+
+
+
+AIRTEL{}
+
+============================================================================================================================
+
+FACEBOOK{
+
+smile();
+
+a
+asmile();
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
