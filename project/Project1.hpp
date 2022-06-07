@@ -3,6 +3,8 @@
 
 class Solution{
 
+public:
+
     void findPrimeNumber(int n);
     void findArmStrongNumber(int n);
     Solution();

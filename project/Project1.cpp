@@ -11,4 +11,7 @@ void Solution::findPrimeNumber(int x){
 }
 int main(){
 
+    Solution s;
+    s.findPrimeNumber(10); 
+
 }
