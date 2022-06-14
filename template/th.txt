@@ -1,0 +1,12 @@
+2 type of template in c++
+
+
+genrics  --> common for all
+
+class template 
+---->
+
+function template
+---->
+
+
