@@ -1,0 +1,6 @@
+vector:
+
+inster student marks in vector --->
+
+
+
