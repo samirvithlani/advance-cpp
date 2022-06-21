@@ -4,3 +4,19 @@ inster student marks in vector --->
 
 
 
+---------------------------------------
+
+employee -->
+add
+
+        -->id,name,age --> not less thn 18 50 --> dynamic -->salary -
+        name len must greater than  3
+delete / search --> id,name -->overloading...
+update -->id
+retrive -->
+-->find heighest paid employee 
+find heighest paid oldedest employee
+
+
+
+

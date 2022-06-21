@@ -37,7 +37,11 @@ int main(){
             cout<<"\n"<<x;
         }
 */
-
+        // push_back
+        //insetr
+        v.emplace(v.begin(),"java");
+        v.capacity();
+        
 
         vector <string>::iterator it;
         for(it =v.begin();it!=v.end();it++){
