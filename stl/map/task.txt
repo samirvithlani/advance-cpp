@@ -1,0 +1,17 @@
+
+pass user define value to map 
+
+eg: class el{
+
+
+}
+class fash{
+
+
+}
+class Product{
+
+el vect
+fas vect
+
+}
