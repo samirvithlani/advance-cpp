@@ -4,9 +4,17 @@
 
 using namespace std;
 
+
+
+int sum(int x,int y){
+
+    cout<<"\n helllo ";
+}
+
 int main()
 {
 
+    cout<<sum(15,25);
     deque<string> names;
     names.push_back("John");
     names.push_front("Jane");
