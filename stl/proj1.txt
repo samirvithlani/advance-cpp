@@ -1,0 +1,33 @@
+/**/
+
+Ecom:-
+
+ADMIN USER
+-------------------
+product 
+-------
+
+admin can add products
+id,name,price,quantity,description,availability
+------------------------------------------------
+USER
+user can view all products
+--------------------------
+user can view a specific product --> null, id should auto increment
+--------------------------
+user can add to cart
+-----------------------
+user can view cart
+-----------------------
+user can view cart
+-----------------------
+user can checkout
+-----------------------
+user can view order history
+-----------------------
+user can view order details
+-----------------------
+user can serach product on various criteria
+-------------------------------------------
+
+
